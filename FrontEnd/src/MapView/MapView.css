@@ -1,0 +1,21 @@
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+}
+
+
+
+.SearhPlaces{
+    margin-top: 40px;
+}
+.divBox{
+    width: 70vw;
+    height: 500px;        
+    border: 2px solid red;
+    border-radius: 10px;
+}
